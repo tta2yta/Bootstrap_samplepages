@@ -76,18 +76,16 @@ main section#card ul li {
 }
 
 main section#card ul li span {
-  position: absolute;
-  width: 50px;
-  height: 50px;
-  background-color: #ccdfff;
+  
+  width: 40px;
+  height: 40px;
+  background-color: #e2ccff;
   border-radius: 50%;
-  margin-right: 10px;
+  margin: 10px;
 }
 
 main section#card ul li strong {
-  display: inline-block;
-  margin-left: 40px;
-  margin-top: 10px;
+  margin: 5px;
 }
 
 main section#primary {
