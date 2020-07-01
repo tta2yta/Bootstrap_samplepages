@@ -78,9 +78,8 @@ color: white;
 
 .section-1 .para-1
 { 
-	width: 60%;
-	margin-left: 20%;
-	margin-bottom: 5%; 
+	/* width: 60%; */
+	margin: 20px auto;
 }
 
 .section-1 .card-text, .para-1{
@@ -182,18 +181,30 @@ color:#00E8E8;
 .card{
 	width: 20rem;
 }
+@media screen and (max-width: 1200px){
+	.section-1 .card{
+		width:14rem;
+		margin: auto;
+	}
+	#footer-img{
+		width: 100%;
+	}
+	}
+
+
 @media screen and (max-width: 768px){
 .section-1 .card{
-	width:14rem;
+	width:24rem;
+	margin: auto;
 }
 .section-4 .col-md-7 img{
-	width: 350px;
+	width: 100%;
 }
 }
 @media screen and (max-width: 320px){
 	.site-content .site-title{
 		font-size:30px;
-		padding:-left:15%;
+		padding-left:15%;
 	}
 	.site-content .site-btn2{
 		display: none;
@@ -219,5 +230,9 @@ font-size: 25px;
 
 	footer input[type="button"]{
 		margin-top: 5%;
+	}
+
+	#footer-img{
+		width:100%;
 	}
 }
