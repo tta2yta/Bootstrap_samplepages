@@ -22,7 +22,7 @@ The second page is a home page foe a travel agency and the third page is a home 
 ## Live Demo
 
 <a href="https://rawcdn.githack.com/tta2yta/Bootstrap_samplepages/35fd590673a6ec77206fc29ecf2604b228637cbe/index.html">index_1.html</a> <br>
-<a href="https://rawcdn.githack.com/tta2yta/Bootstrap_samplepages/35fd590673a6ec77206fc29ecf2604b228637cbe/index_2.html">index_2.html</a> <br>
+<a href="https://rawcdn.githack.com/tta2yta/Bootstrap_samplepages/1f323ed6e62bdddb9f4670fb3db400e9d1278e75/index_2.html">index_2.html</a> <br>
 <a href="https://rawcdn.githack.com/tta2yta/Bootstrap_samplepages/35fd590673a6ec77206fc29ecf2604b228637cbe/index_3.html">index_3.html</a> 
 
 ## Author
